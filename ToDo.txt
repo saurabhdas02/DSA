@@ -1,0 +1,5 @@
+LinkedList
+
+Implement stack using 2 queues
+Implement queue using 2 stacks
+

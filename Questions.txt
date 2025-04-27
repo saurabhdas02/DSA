@@ -1,0 +1,11 @@
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4836121/simple-beginner-friendly-dry-run-greedy-approach-readable-sol-time-o-n-space-o-1-gits/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/4868897/most-optimized-kadane-s-algorithm-java-c-python-rust-javascript/
+https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/solutions/5654320/effortlessly-count-negative-numbers-in-a-2d-array-with-this-one-simple-code-fix/
+
+
+
+
+
+
+https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
+https://www.geeksforgeeks.org/time-complexity-analysis-tower-hanoi-recursion/

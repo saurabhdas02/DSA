@@ -1,0 +1,7 @@
+Doubts:
+
+- Why do we not use simple a+b to Add 2 integers?
+
+
+- Cover PnC
+- GCD, LCD, LCM

@@ -1,0 +1,8 @@
+Code for <= k
+Code for >= k
+Code for < k
+
+Already done for >k
+
+
+https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/?envType=daily-question&envId=2024-11-17
